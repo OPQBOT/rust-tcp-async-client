@@ -18,7 +18,7 @@ rust实现的异步多客户端网络框架，基于[tokio](https://github.com/t
 
 ## 🎈指南食用🎈
 
-1⃣️克隆项目
+1⃣️ 克隆项目
 ```bash
 git clone https://github.com/OPQBOT/rust-tcp-async-client.git
 ```
@@ -29,20 +29,20 @@ cd rust-tcp-async-client
 
 ```
 
-3⃣️vscode打开
+3⃣️ Vscode打开
 
 ```bash
 code .
 ```
 
-4⃣️启动server
+4⃣️ 启动server
 
 ```bash
 cd examples
 cargo run --package examples --example server-test
 ```
 
-5⃣启动client
+5⃣ 启动client
 
 ```bash
 cd examples
